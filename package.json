@@ -41,7 +41,5 @@
     "example",
     "heroku"
   ]
-  "engines": {
-    "node": "v14.11.0"
-  },
+  
 }
